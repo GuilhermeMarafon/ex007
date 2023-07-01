@@ -1,0 +1,2 @@
+# ex007
+ Semântica
